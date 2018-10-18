@@ -11,7 +11,7 @@
 #include<fstream>
 #include<MMSystem.h>
 using namespace std;
-
+//nice one
 COORD coord = {0,0};              
 void gotoxy(int x, int y)         //For Setting the position of Cursor
 {
